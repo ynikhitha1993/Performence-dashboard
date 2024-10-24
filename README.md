@@ -19,7 +19,7 @@ This project is an **AWS Cloud-Based Data-Driven Performance and Efficiency Dash
 - **GitHub**: Version control and collaboration.
 
 ## Dataset
-The dataset consists of performance metrics for various **BMW** vehicle models, including SUVs and Electric Vehicles. Key metrics include fuel consumption, energy consumption, and CO2 emissions.
+The dataset consists of performance metrics for various  vehicle models, including SUVs and Electric Vehicles. Key metrics include fuel consumption, energy consumption, and CO2 emissions.
 
 ## How to Run the Project
 1. Clone the repository:
